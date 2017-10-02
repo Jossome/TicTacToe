@@ -24,3 +24,6 @@ Cautions:
 2. The input should not contain any characters other than whitespace characters in the beginning and ending.
 3. For advanced tic-tac-toe, you can input whatever you want (except '\n') between the two integers to separate them.
 4. Make sure you type '\n' only when you finished your current input.
+
+Updates:
+- For the combat.py, you need to modify the evaluation functions manually. Automatic learning may come after.
